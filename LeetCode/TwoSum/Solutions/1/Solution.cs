@@ -1,3 +1,4 @@
+// https://leetcode.com/submissions/detail/525420222/
 namespace LeetCode.TwoSum.Solutions._1
 {
     public class Solution
