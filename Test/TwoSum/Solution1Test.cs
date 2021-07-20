@@ -1,9 +1,9 @@
-using LeetCode.TwoSum;
+using LeetCode.TwoSum.Solutions._1;
 using Xunit;
 
 namespace Test.TwoSum
 {
-    public class SolutionTest
+    public class Solution1Test
     {
         [Fact]
         public void TwoSumTest()
